@@ -1,2 +1,2 @@
 # CodeChef
-My codes for CodeChef problems.
+My codes for CodeChef problems in C++.
